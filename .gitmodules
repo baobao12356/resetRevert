@@ -1,0 +1,6 @@
+[submodule "lib/axios"]
+	path = lib/axios
+	url = git@github.com:axios/axios.git
+[submodule "lib/myDemo"]
+	path = lib/myDemo
+	url = git@github.com:baobao12356/myDemo.git
